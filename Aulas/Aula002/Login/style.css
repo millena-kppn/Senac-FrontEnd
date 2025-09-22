@@ -1,0 +1,33 @@
+main {
+    display: flex;
+        align-items: center;
+    justify-content: center;
+    min-height: 97vh;
+}
+main form {
+        display: flex;
+    flex-direction: column;
+    gap: 24px;
+    padding: 24px;
+    border-radius: 12px;
+    box-shadow: 0px 0px 6px #000;
+}
+main form fieldset {
+        display: flex;
+    flex-direction: column;
+    gap: 4px;
+    border: none;
+}
+form fieldset input {
+    height: 32px;
+    border-radius: 8px;
+    outline: none;
+    padding-left: 8px;
+}
+form button {
+    padding: 8px 12px;
+    border-radius: 12px;
+    background-color: #5a3838;
+    border: none;
+    color: #dedddd;
+}
