@@ -49,11 +49,22 @@ h2, h3, p{
 h2{
     color: #7270df;
 }
- #tecnologias{
+ /* #tecnologias{
     box-shadow: -4px -5px 30px 5px rgba(71, 240, 85, 0.548), 4px 5px 30px 5px rgba(153, 0, 255, 0.616);
     border-radius: 10px 70px;
-    padding: 30px;
-    margin: 130px;
+    padding: 50px;
+    margin: 50px;
+ } */
+  #tecnologia1,#tecnologia2,#tecnologia3,#tecnologia4,#tecnologia5{
+    box-shadow: -4px -5px 30px 5px rgba(71, 240, 85, 0.548), 4px 5px 30px 5px rgba(153, 0, 255, 0.616);
+    border-radius: 10px 70px;
+    width: 360px;
+    display: inline-block;
+    padding: 15px;
+    margin: 40px;
+  }
+ #contato{
+    margin-top: 40px;
  }
  #contato>a{
     color: white;
