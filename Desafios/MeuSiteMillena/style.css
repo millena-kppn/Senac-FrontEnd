@@ -51,13 +51,7 @@ h2{
     margin-top: 40px;
     color: #1b69cf;
 }
- /* #tecnologias{
-    box-shadow: -4px -5px 30px 5px rgba(71, 240, 85, 0.548), 4px 5px 30px 5px rgba(153, 0, 255, 0.616);
-    border-radius: 10px 70px;
-    padding: 50px;
-    margin: 50px;
- } */
-  #tecnologia1,#tecnologia2,#tecnologia3,#tecnologia4,#tecnologia5{
+  .aprendizados{
     box-shadow: -1px -1px 6px 0 rgb(122, 221, 102), 4px 4px 16px 2px rgb(92, 162, 235);
     border-radius: 50px 10px;
     width: 360px;
